@@ -1,12 +1,11 @@
 <div align="center">
   <a href="https://github.com/takmaswi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=takmaswi&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=777777&icon_color=ffffff" alt="GitHub Stats" onerror="this.style.display='none'"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=takmaswi&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=777777&icon_color=ffffff" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/takmaswi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takmaswi&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=777777" alt="Top Languages" onerror="this.style.display='none'"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takmaswi&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=777777" alt="Top Languages" />
   </a>
 </div>
-
 # Takunda Maswi | Full Stack Developer & AI Specialist
 
 I engineer secure, full stack web applications and privacy-compliant AI tools. My focus is bridging complex database infrastructure with user-centric interfaces to solve high-stakes business problems.
