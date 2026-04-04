@@ -1,35 +1,23 @@
-<div align="center">
-  <a href="https://github.com/takmaswi">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=takmaswi&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=777777&icon_color=ffffff" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/takmaswi">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takmaswi&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=777777" alt="Top Languages" />
-  </a>
-</div>
-# Takunda Maswi | Full Stack Developer & AI Specialist
+# Takunda Maswi
 
-I engineer secure, full stack web applications and privacy-compliant AI tools. My focus is bridging complex database infrastructure with user-centric interfaces to solve high-stakes business problems.
+I am a full-stack developer and AI specialist based in Harare. I build secure web applications and privacy-focused AI tools, bridging complex backend infrastructure with user-centric interfaces to solve practical business problems.
 
-### Core Architecture & Engineering Focus
-* **AI & Machine Learning:** Engineering local Retrieval-Augmented Generation (RAG) pipelines, offline-first LLM applications, and specialized NLP translation models.
-* **Full Stack Development:** Architecting scalable platforms with Role-Based Access Control (RBAC), Row Level Security (RLS), and complex API integrations.
-* **Data & Automation:** Building custom SQL data validation hubs and real-time workflow automation engines.
+### Engineering Focus
 
-### Technical Proficiencies
+- Building local Retrieval-Augmented Generation (RAG) pipelines and offline-first LLM applications.
+- Training and fine-tuning specialized NLP translation models.
+- Architecting scalable platforms with strict Role-Based Access Control (RBAC) and Row Level Security (RLS).
+- Developing custom SQL data validation hubs and real-time workflow automation engines.
 
-**Languages & Core** ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### Tech Stack
 
-**Frontend Ecosystem** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+**Core** ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Backend, Infrastructure & AI** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4F00?style=for-the-badge&logo=chroma&logoColor=white)
+**Frontend** ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-### Professional Presence
-* [Portfolio Website](https://portifoliotakunda.vercel.app)
-* [LinkedIn Network](https://www.linkedin.com/in/takunda-maswi)
+**Backend & AI** ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4F00?style=for-the-badge&logo=chroma&logoColor=white)
+
+### Links
+
+- [Portfolio](https://portifoliotakunda.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/takunda-maswi)
