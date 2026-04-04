@@ -1,6 +1,10 @@
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=takmaswi&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=777777&icon_color=ffffff" alt="Takunda's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takmaswi&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=777777" alt="Top Languages" />
+  <a href="https://github.com/takmaswi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=takmaswi&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=777777&icon_color=ffffff" alt="GitHub Stats" onerror="this.style.display='none'"/>
+  </a>
+  <a href="https://github.com/takmaswi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takmaswi&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=777777" alt="Top Languages" onerror="this.style.display='none'"/>
+  </a>
 </div>
 
 # Takunda Maswi | Full Stack Developer & AI Specialist
