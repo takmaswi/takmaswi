@@ -12,7 +12,7 @@ Most of my work lives in private product repositories. The public ones are pinne
 
 **Takudzidza.** An AI study platform for secondary, university and professional exam learners.
 
-**Svika.** Trip intelligence for Harare's kombi network. Winner of the GDG Harare Build with AI Hackathon 2026.
+**Svika.** Trip intelligence for Harare's kombi network. Winner of the Google Developer Groups Build with AI Hackathon 2026.
 
 I have also built business systems for clients: performance management for a microfinance institution, HR analytics for companies, an online store with WhatsApp ordering, payroll with ZIMRA and NSSA rules, and a student accommodation platform.
 
