@@ -1,23 +1,53 @@
 # Takunda Maswi
 
-I am a full stack developer and AI specialist based in Harare. I build secure web applications and privacy focused AI tools, bridging complex backend infrastructure with user centric interfaces to solve practical business problems.
+Full stack developer and AI specialist in Harare, Zimbabwe. I build products from the database to launch, on my own and for clients, and I have been shipping code on GitHub since 2019.
 
-### Engineering Focus
+Most of my work lives in private product repositories. The public ones are pinned below.
 
-My core architecture work involves engineering local Retrieval Augmented Generation (RAG) pipelines and offline first LLM applications. I also train and fine tune specialized NLP translation models. On the full stack side, I architect scalable platforms enforcing strict Role Based Access Control (RBAC) and Row Level Security (RLS), alongside developing custom SQL data validation hubs and real time workflow automation engines.
+### What I build
 
-### Tech Stack
+**Takubasa.** An AI workspace where a person describes a job and it goes to the right specialist agent. Figures and deadlines come from tested engines, not the model.
 
-**Core Ecosystem**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Amayi Learn.** An AI teacher for primary school children that teaches through hints and questions in English and ChiShona, with parent consent before any child data.
 
-**Frontend Development**
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+**Takudzidza.** An AI study platform for secondary, university and professional exam learners.
 
-**Backend & AI Infrastructure**
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4F00?style=for-the-badge&logo=chroma&logoColor=white)
+**Svika.** Trip intelligence for Harare's kombi network. Winner of the GDG Harare Build with AI Hackathon 2026.
 
-### Professional Presence
+I have also built business systems for clients: performance management for a microfinance institution, HR analytics for companies, an online store with WhatsApp ordering, payroll with ZIMRA and NSSA rules, and a student accommodation platform.
 
-[Portfolio Website](https://portifoliotakunda.vercel.app)
-[LinkedIn Network](https://www.linkedin.com/in/takunda-maswi)
+### How I work
+
+* Access control and row level security from the first commit
+* Unit, browser and accessibility tests on every product, run in CI
+* Offline first and light on data, because many of my users are on cheap phones and expensive bundles
+* Money and statutory figures come from tested code, never from a language model
+
+### Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-111111?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
+### Find me
+
+[Portfolio](https://portifoliotakunda.vercel.app) · [LinkedIn](https://www.linkedin.com/in/takunda-christopher-maswi-97672045) · [Email](mailto:takmaswi@gmail.com)
