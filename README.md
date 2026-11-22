@@ -50,4 +50,4 @@ I have also built business systems for clients: performance management for a mic
 
 ### Find me
 
-[Portfolio](https://portifoliotakunda.vercel.app) · [LinkedIn](https://www.linkedin.com/in/takunda-christopher-maswi-97672045) · [Email](mailto:takmaswi@gmail.com)
+[Portfolio](https://www.takundamaswi.com) · [LinkedIn](https://www.linkedin.com/in/takunda-christopher-maswi-97672045) · [Email](mailto:takmaswi@gmail.com)
